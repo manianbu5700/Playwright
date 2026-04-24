@@ -7,6 +7,5 @@ test('Login facebook', async ({ page }) => {
 });
 test('Login facebook', async ({ page }) => {
   await page.goto('https://www.amazon.in/');
-
 });
 
