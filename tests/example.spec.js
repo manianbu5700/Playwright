@@ -5,4 +5,8 @@ test('Login facebook', async ({ page }) => {
   await page.goto('https://www.snapdeal.com/');
 
 });
+test('Login facebook', async ({ page }) => {
+  await page.goto('https://www.meesho.com/');
+
+});
 
